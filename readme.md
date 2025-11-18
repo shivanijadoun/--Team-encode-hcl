@@ -12,7 +12,7 @@ This app allows *patients* to track daily wellness activities, while *healthcare
 - Login & Registration
 - JWT-based authentication
 - Password hashing (bcrypt)
-- Role-based access (Patient / Provider)
+- Role-based access (Patient / Doctor)
 
 ---
 
@@ -24,7 +24,7 @@ This app allows *patients* to track daily wellness activities, while *healthcare
 
 ---
 
-### 👤 3. Profile Management
+### 👤 3. Profile Management 
 - Update personal details
 - Add allergies & current medications
 
@@ -81,3 +81,6 @@ er actions
 
 ### 1️⃣ Clone the repository
 ```bash
+
+
+// use postman for api testing
