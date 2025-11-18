@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Build outputs
+dist/
+build/
+
+# Cache
+.cache/
+.parcel-cache/
+.next/
+.vercel/
+turbo/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Frontend dependencies (React)
+frontend/node_modules/
+frontend/build/
+
+# Backend dependencies
+backend/node_modules/
+
+# Optional: Ignore uploads
+uploads/
